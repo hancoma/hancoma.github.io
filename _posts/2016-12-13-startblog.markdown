@@ -6,7 +6,7 @@ crawlertitle: "About startblog"
 summary: "What's new in startblog"
 date:   2016-06-29 20:09:47 +0700
 categories: posts
-tags: ['front-end']
+tags: ['startblog']
 author: redVi
 ---
 Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming startblog, as well as cast our vision beyond to understand how JS will evolve moving forward.
