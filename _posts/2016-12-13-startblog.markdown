@@ -4,12 +4,12 @@ layout: post
 title:  "You Don't Know JS: startblog & Beyond"
 crawlertitle: "About startblog"
 summary: "What's new in startblog"
-date:   2016-12-139 20:09:47 +0700
+date:   2016-12-139 20:09:48 +0700
 categories: posts
 tags: ['startblog']
 author: redVi
 ---
-연습으로 만든것 
+연습으로 만든것 테스트 한것 
 Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming startblog, as well as cast our vision beyond to understand how JS will evolve moving forward.
 
 If you are still looking for confidence with JavaScript, I highly recommend you read the other titles in this series first:
