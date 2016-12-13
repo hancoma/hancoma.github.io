@@ -4,7 +4,7 @@ layout: post
 title:  "You Don't Know JS: startblog & Beyond"
 crawlertitle: "About startblog"
 summary: "What's new in startblog"
-date:   2016-06-29 20:09:47 +0700
+date:   2016-12-139 20:09:47 +0700
 categories: posts
 tags: ['startblog']
 author: redVi
