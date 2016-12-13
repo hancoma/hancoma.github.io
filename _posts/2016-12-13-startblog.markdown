@@ -9,7 +9,7 @@ categories: posts
 tags: ['startblog']
 author: redVi
 ---
-연습으로 만든것 테스트 한것 
+연습으로 만든것 테스트 한것 가장 많이 사용되는 레이아웃 같은데 잘되야 되지 않을까 
 Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called ES5 (technically ES 5.1). Here, we plan to talk squarely about the upcoming startblog, as well as cast our vision beyond to understand how JS will evolve moving forward.
 
 If you are still looking for confidence with JavaScript, I highly recommend you read the other titles in this series first:
